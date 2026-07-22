@@ -1,0 +1,15 @@
+<html>
+    <head>
+        <title> Java script</title>
+    </head>
+
+    <body>
+        <h2>hello java script</h2>
+               <button onclick=""showmessages"()>click me</button>
+               <script>
+               function showmessage(){
+                 alert("welcome to java script")
+                }
+               </script>
+    </body>
+</html>
